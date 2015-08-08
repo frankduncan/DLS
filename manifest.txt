@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: dls
+Class-Manager: org.nlogo.extensions.dls.DLSExtension
+NetLogo-Extension-API-Version: 5.0
